@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "&X&",
+        "X#X",
+        "&X&"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:wheat"
+        },
+        "#": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "&": {
+            "item": "minecraft:tallgrass",
+            "data": 1
+        }
+    },
+    "result": {
+        "item": "pfd:purifier",
+        "count": 1
+    }
+}
